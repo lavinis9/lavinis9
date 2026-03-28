@@ -14,7 +14,7 @@
 <p>I enjoy programming, solving problems, and developing projects in C when it comes to procedural programming, and in C++ for object-oriented programming. However, I’m also interested in front-end development systems.</p>
 <ul>
 <li>🏫 Studying at DIT UOI(4th semester)</li>
-<li>🎯 Goal: Become a Software Engineer Or Full Stack Dev</li>
+<li>🎯 Goal: Become a Software Engineer Or Full Stack Developer</li>
 </ul>
 <h4>🛠️ Tech Stack</h4>
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" >

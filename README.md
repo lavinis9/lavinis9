@@ -11,7 +11,7 @@
   <h2>Lampros Vinis</h2>
 </div>
 <h4>🧑‍💻 About Me:</h4>
-<p>I enjoy programming, solving problems, and developing projects in C when it comes to procedural programming, and in C++ for object-oriented programming. However, I’m also interested in front-end development systems.</p>
+<p>I enjoy programming, solving problems, and developing projects in C when it comes to procedural programming, and in C++ for object-oriented programming. However, I’m also interested in front-end development systems and i like to design usefull databases.</p>
 <ul>
 <li>🏫 Studying at DIT UOI(4th semester)</li>
 <li>🎯 Goal: Become a Software Engineer Or Full Stack Developer</li>

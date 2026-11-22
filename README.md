@@ -1,26 +1,30 @@
-<!DOCTYPE html>
-<html lang="el">
-<head>
-<meta charset="UTF-8">
-</head>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/tv-set?username=lavinis9&mode=light&v=2026-11-11" />
+  <img src="https://www.gitskins.com/api/section/tv-set?username=lavinis9&mode=dark&v=2026-11-11" width="100%" alt="Lampros Vinis's GitHub on a retro TV" />
+</picture>
 
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/tv-about?username=lavinis9&mode=light&v=2026-11-11" />
+  <img src="https://www.gitskins.com/api/section/tv-about?username=lavinis9&mode=dark&v=2026-11-11" width="100%" alt="About Lampros Vinis: CS student at DIT UOI" />
+</picture>
 
-<main>
-<body>
-<div align="center">
-  <h2>Lampros Vinis</h2>
-</div>
-<h4>🧑‍💻 About Me:</h4>
-<p>I enjoy programming, solving problems, and developing projects in C++ when it comes to procedural programming and for object-oriented programming. However, I’m also interested in front-end development systems and i like to design usefull databases.</p>
-<ul>
-<li>🏫 Studying at DIT UOI(5th semester)</li>
-<li>🎯 Goal: Become a Software Engineer Or Full Stack Developer</li>
-</ul>
-<h4>🛠️ Tech Stack</h4>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-</body>
-</main>
-</html>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/tv-list?username=lavinis9&mode=light&v=2026-11-11" />
+  <img src="https://www.gitskins.com/api/section/tv-list?username=lavinis9&mode=dark&v=2026-11-11" width="100%" alt="Lampros Vinis's projects by stars" />
+</picture>
+
+[BiteCheck](https://github.com/lavinis9/BiteCheck) · [Superleague---DB](https://github.com/lavinis9/Superleague---DB) · [GLD](https://github.com/lavinis9/GLD) · [SmarCalc](https://github.com/lavinis9/SmarCalc)
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/tv-stack?username=lavinis9&mode=light&v=2026-11-11" />
+  <img src="https://www.gitskins.com/api/section/tv-stack?username=lavinis9&mode=dark&v=2026-11-11" width="100%" alt="Languages: JavaScript, C++, SQL, CSS, HTML" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/tv-log?username=lavinis9&mode=light&v=2026-11-11" />
+  <img src="https://www.gitskins.com/api/section/tv-log?username=lavinis9&mode=dark&v=2026-11-11" width="100%" alt="The last 26 weeks of contributions, the streak and the year" />
+</picture>
+
+<a href="https://github.com/lavinis9">GitHub</a>
+
+<sub>Retro TV · four channels of my real GitHub data · made with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub>

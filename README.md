@@ -1,19 +1,19 @@
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/arcade-cabinet?username=lavinis9&mode=light&v=2026-11-11" />
-  <img src="https://www.gitskins.com/api/section/arcade-cabinet?username=lavinis9&mode=dark&v=2026-11-11" width="100%" alt="An arcade game played across my contribution graph" />
-</picture>
+<p align="center">
+<img src="https://www.gitskins.com/api/section/hero?username=lavinis9&theme=github-dark&style=aura&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F271747569%3Fu%3Dffbc60c3c82a382060203856ace8cc1e4b504d41%26v%3D4&v=showcase-hero-1" alt="Lampros Vinis hero visual" />
+</p>
 
-<sub>The level is my last 26 weeks of contributions; coins mark my busiest weeks.</sub>
+<p align="center">
+<img src="https://www.gitskins.com/api/section/projects?username=lavinis9&theme=github-dark&style=aura&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F271747569%3Fu%3Dffbc60c3c82a382060203856ace8cc1e4b504d41%26v%3D4&v=showcase-projects-2" alt="Lampros Vinis projects visual" />
+</p>
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/arcade-about?username=lavinis9&mode=light&v=2026-11-11" />
-  <img src="https://www.gitskins.com/api/section/arcade-about?username=lavinis9&mode=dark&v=2026-11-11" width="100%" alt="About Lampros Vinis: Frontend or full-stack engineer" />
-</picture>
+<p align="center">
+<img src="https://www.gitskins.com/api/section/heatmap?username=lavinis9&theme=github-dark&variant=space-shooter&v=showcase-space-shooter-3" alt="Lampros Vinis contribution Space Shooter" />
+</p>
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/arcade-log?username=lavinis9&mode=light&v=2026-11-11" />
-  <img src="https://www.gitskins.com/api/section/arcade-log?username=lavinis9&mode=dark&v=2026-11-11" width="100%" alt="The last 26 weeks of contributions, the streak and the year" />
-</picture>
+<p align="center">
+<img src="https://www.gitskins.com/api/section/stats?username=lavinis9&theme=github-dark&style=aura&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F271747569%3Fu%3Dffbc60c3c82a382060203856ace8cc1e4b504d41%26v%3D4&v=showcase-stats-4" alt="Lampros Vinis stats visual" />
+</p>
 
-
-<sub>Arcade Cabinet · made with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub>
+<p align="center">
+<img src="https://www.gitskins.com/api/section/social?username=lavinis9&theme=github-dark&style=aura&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F271747569%3Fu%3Dffbc60c3c82a382060203856ace8cc1e4b504d41%26v%3D4&v=showcase-social-5" alt="Lampros Vinis social visual" />
+</p>

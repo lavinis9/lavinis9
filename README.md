@@ -11,12 +11,6 @@
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/arcade-scores?username=lavinis9&mode=light&v=2026-11-11" />
-  <img src="https://www.gitskins.com/api/section/arcade-scores?username=lavinis9&mode=dark&v=2026-11-11" width="100%" alt="High scores: my most-starred repositories" />
-</picture>
-
-
-<picture>
   <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/arcade-log?username=lavinis9&mode=light&v=2026-11-11" />
   <img src="https://www.gitskins.com/api/section/arcade-log?username=lavinis9&mode=dark&v=2026-11-11" width="100%" alt="The last 26 weeks of contributions, the streak and the year" />
 </picture>

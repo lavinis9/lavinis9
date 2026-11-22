@@ -17,10 +17,6 @@
 
 [BiteCheck](https://github.com/lavinis9/BiteCheck) · [Superleague---DB](https://github.com/lavinis9/Superleague---DB) · [GLD](https://github.com/lavinis9/GLD) · [SmarCalc](https://github.com/lavinis9/SmarCalc)
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/arcade-stack?username=lavinis9&mode=light&v=2026-11-11" />
-  <img src="https://www.gitskins.com/api/section/arcade-stack?username=lavinis9&mode=dark&v=2026-11-11" width="100%" alt="Languages: JavaScript, C++, SQL, CSS, HTML" />
-</picture>
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/arcade-log?username=lavinis9&mode=light&v=2026-11-11" />
